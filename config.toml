@@ -2,6 +2,7 @@ title = "Portfolio"
 baseURL = "https://sconnin.github.io/portfolio/" #replace this with the final url
 languageCode = "en-us"
 theme = "ananke"
+publishDir = "docs"
 themesDir = "themes"
 resourceDir = "../resources"
 
